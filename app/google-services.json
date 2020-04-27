@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132155951189",
+    "firebase_url": "https://paravon-76238.firebaseio.com",
+    "project_id": "paravon-76238",
+    "storage_bucket": "paravon-76238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132155951189:android:860385881b6daf29ccecdc",
+        "android_client_info": {
+          "package_name": "com.aca.paravon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132155951189-fatk7glsnpdl86f570ni21ms07df7rti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aca.paravon",
+            "certificate_hash": "a9270dc49878e10471c84b0bccf872db5f1e2cd9"
+          }
+        },
+        {
+          "client_id": "132155951189-t04orl52f5hedg7bue13ba415m0kmu5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0SQLzw36Aqfg3NY-pPve0-gm_ureP_kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132155951189-t04orl52f5hedg7bue13ba415m0kmu5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

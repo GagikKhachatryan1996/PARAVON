@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UteliqneriFragment"
+    android:background="#646464"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+
+
+        <TextView
+            android:id="@+id/tvyal_xmichqner"
+            android:layout_width="222dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textSize="28sp"
+            android:textColor="#FFF"
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginLeft="8dp"
+            />
+
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>
+
+
+
+
+
+
+
